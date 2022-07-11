@@ -25,9 +25,9 @@ A Colorado Board of Elections employee has given me tasks to complete the electi
 The analysis of the election showed that:
 The candidate were:
 
-   o	Candidate 1: Charles Casper Stockham,
-   o	Candidate 2: Diana DeGette, and
-   o	Candidate 3: Raymon Anthony Doane
+   a. Candidate 1: Charles Casper Stockham,
+   b.	Candidate 2: Diana DeGette, and
+   c. Candidate 3: Raymon Anthony Doane
    
 The candidate results were:
 
